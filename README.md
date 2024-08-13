@@ -1,3 +1,3 @@
-# RAKA-CSS
+# ReKA-CSS
 
 The code will be public after publication.
